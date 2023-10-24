@@ -1,30 +1,32 @@
-[Your Company/Project Name]
+Project Name : rezerwowa.cz
 Project Initiation Meeting
-Date: [Meeting Date]
-Time: [Start Time] - [End Time]
-Location: [Meeting Location]
+Date: 18.OCT.2023
+Time: 6:30 p.m. - 8:30 p.m
+Location: Microsoft teams meeting
+
 
 Attendees:
+Przemysław Baranowski 
+Aleksandra Gruntowska
+Maciej Jurczyk
+Michał Kurzak
+Karolina Syka 
+Paweł Walkowski 
 
-[Name]
-[Name]
-[Name]
-etc.
+
 Agenda:
-
 Welcome and Introduction of Participants.
 Discussion of Project Goals and Scope.
 Assignment of Roles in the Project Team.
+
+
 Meeting Summary:
-
 Welcome and Introduction of Participants: To start the meeting, all participants were welcomed, and they briefly introduced themselves.
-
-Discussion of Project Goals and Scope: During this part of the meeting, the main project goals and scope of work were discussed. The project's goal is [briefly describe project goals], and the scope of work includes [briefly describe project scope].
+Discussion of Project Goals and Scope: During this part of the meeting, the main project goals and scope of work were discussed. The project's goal is creation user friendly application, and the scope of work includes prepare environment and creation back and front end. 
 
 Assignment of Roles in the Project Team: At this stage, roles in the project team were discussed following Agile practices. The following roles were assigned:
 
-Product Owner: [Name]
-Scrum Master: [Name]
-Development Team: [Name], [Name], [Name]
-etc.
+Product Owner: Karolina Syka
+Scrum Master: Paweł Walkowski
+Development Team: Przemysław Baranowski, Aleksandra Gruntowska, Maciej Jurczyk, Michał Kurzak
 Definition of Environment Requirements: The meeting included a discussion of the requirements for the development environment.
