@@ -30,3 +30,11 @@ Product Owner: Karolina Syka
 Scrum Master: Paweł Walkowski
 Development Team: Przemysław Baranowski, Aleksandra Gruntowska, Maciej Jurczyk, Michał Kurzak
 Definition of Environment Requirements: The meeting included a discussion of the requirements for the development environment.
+
+Story point for this project:
+0: Task was finished
+1: Tiny task (1-5h)
+2: Litle task (0.4 to 2.0 days)
+3: Medium task (2 to 7 days)
+4: Big task (7 to 14 days)
+5: to big to exist us single task (to split into smaller tasks)
